@@ -1,0 +1,11 @@
+{
+  "name": "greybeard",
+  "owner": { "name": "Unravel" },
+  "plugins": [
+    {
+      "name": "greybeard",
+      "source": "./",
+      "description": "Phone a greybeard: ask a human engineering expert from inside your agent."
+    }
+  ]
+}

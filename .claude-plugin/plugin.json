@@ -1,0 +1,6 @@
+{
+  "name": "greybeard",
+  "version": "0.7.0",
+  "description": "Phone a greybeard: lets your AI agent ask a human engineering expert when it is stuck or the stakes are high.",
+  "author": { "name": "Unravel" }
+}

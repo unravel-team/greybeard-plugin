@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "greybeard": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--quiet",
+        "--script",
+        "${CLAUDE_PLUGIN_ROOT}/mcp/greybeard_mcp.py"
+      ],
+      "env": {
+        "GREYBEARD_URL": "${GREYBEARD_URL:-https://greybeard.unravel.tech}"
+      }
+    }
+  }
+}
